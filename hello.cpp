@@ -5,6 +5,6 @@ void main
 {
 
   cout<<"hello world";
-  
+  cout<<"WELCOME!!";
 
 }
